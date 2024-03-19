@@ -3,13 +3,15 @@ Deploying a Virtual Machine in Azure using Terraform
 Modules Used
 
 Azure Public IP. <br>
-Azure Network Interface. 
-Azure Network Security Group.
-Azure Network Interface Security
-Group Association.
-Azure Network Security Rule.
-Azure Virtual Machine.
-Storage OS Disk.
+Azure Network Interface. <br>
+Azure Network Security Group. <br>
+Azure Network Interface Security <br>
+Group Association. <br>
+Azure Network Security Rule. <br>
+Azure Virtual Machine. <br>
+Storage OS Disk. <br>
+
+The Architecture was changed to one based in modules, with a folder that contains part of the resources that used to be in the main file.
 
 Prerequisites
 
