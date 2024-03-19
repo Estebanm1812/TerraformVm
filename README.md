@@ -2,8 +2,8 @@ Deploying a Virtual Machine in Azure using Terraform
 
 Modules Used
 
-Azure Public IP.
-Azure Network Interface.
+Azure Public IP. <br>
+Azure Network Interface. 
 Azure Network Security Group.
 Azure Network Interface Security
 Group Association.
