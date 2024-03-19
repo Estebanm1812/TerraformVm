@@ -50,3 +50,17 @@ terraform apply
 10. Cleanup Resources: When the virtual machine is no longer needed, destroy it and clean up associated resources by running:
 
 terraform destroy
+
+Evidences:
+
+Resource Group
+
+<img width="1129" alt="Captura de pantalla 2024-03-19 a la(s) 5 48 52 p  m" src="https://github.com/Estebanm1812/TerraformVm/assets/69942961/3c93ac85-d83b-4861-94cc-9abe6e6200be">
+
+Virtual Machine
+
+<img width="1440" alt="Captura de pantalla 2024-03-19 a la(s) 5 50 42 p  m" src="https://github.com/Estebanm1812/TerraformVm/assets/69942961/8d54e149-5d7d-49fa-acbb-99d3f767a1ee">
+
+
+
+
