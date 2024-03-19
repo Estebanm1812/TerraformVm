@@ -11,8 +11,6 @@ Azure Network Security Rule. <br>
 Azure Virtual Machine. <br>
 Storage OS Disk. <br>
 
-The Architecture was changed to one based in modules, with a folder that contains part of the resources that used to be in the main file.
-
 Prerequisites
 
 Before proceeding, ensure that you have the necessary components installed on your machine:
