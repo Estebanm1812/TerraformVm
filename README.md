@@ -1,5 +1,16 @@
 Deploying a Virtual Machine in Azure using Terraform
 
+Modules Used
+
+Azure Public IP.
+Azure Network Interface.
+Azure Network Security Group.
+Azure Network Interface Security
+Group Association.
+Azure Network Security Rule.
+Azure Virtual Machine.
+Storage OS Disk.
+
 Prerequisites
 
 Before proceeding, ensure that you have the necessary components installed on your machine:
